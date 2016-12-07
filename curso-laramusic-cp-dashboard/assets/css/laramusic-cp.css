@@ -1,0 +1,164 @@
+/*404*/
+.ERRO{
+margin: 19px;
+}
+
+
+.logo{
+    width: 100%;
+    margin-top: 30px;
+}
+.menu{
+    background: #FC503B;
+    margin: 0px;
+    padding: 0px;
+}
+ul.menu{
+    list-style: none;
+    /* float: left; */
+    width: 100%;
+    margin: 0px;
+}
+ul.menu li{
+    /* display: inline; */
+    /* float: left; */
+    /* width: 16.6%; */
+    /* height: 100%; */
+    text-align: center;
+}
+ul.menu li a{}
+ul.menu li h1{
+    font-size: 15px;
+    margin: 4px;
+    color: #fff;
+    font-weight: bold;
+    padding: 10px;
+}
+img.img-menu{
+    max-width: 100px;
+}
+a:hover{text-decoration:none;}
+
+.clear{clear: both;}
+
+
+.actions{
+    background: #4d100a;
+}
+a.add{
+    background: #fc503b;
+    padding: 16px;
+    float: left;
+    margin: 5px;
+    color: #fff;
+    border-radius: 5px;
+}
+form.form-search{
+    float: left;
+    margin: 15px;
+    margin-left: 74px;
+}
+div.pesquisar{
+
+}
+
+input.pesquisar{margin: 1px;}
+i.btn-pesquisar{
+
+}
+
+div.relatorios{}
+ul.relatorios{
+    float: left;
+    width: 100%;
+    margin: 40px 0px;
+}
+ul.relatorios li a{
+    background: #fc503b;
+    margin: 15px 0px;
+    float: left;
+    width: 100%;
+    padding: 20px;
+}
+
+ul.relatorios li h1{
+    color: #fff;
+    font-size: 16px;
+}
+
+/*RELATORIOS*/
+div.relatorio-user{
+    background: #f9f9f9;
+    padding: 10px;
+    border-radius: 5px;
+    margin-top: 20px;
+}
+
+.edit{
+    background: #4d100a;
+    padding: 3px;
+    color: #fff;
+    border-radius: 5px;
+    margin: 5px;
+}
+.delete{
+    background: #fc503b;
+    padding: 3px;
+    color: #fff;
+    border-radius: 5px;
+    margin: 5px;
+}
+.acoes{
+    width: 100px;
+}
+
+/*GESTAO DE USUARIOS*/
+h1.tittle{
+    color: #af4a3d;
+    font-weight: bold;
+    text-align: center;
+}
+div.form-gestao{
+    background: #f9f9f9;
+    padding: 10px;
+    border-radius: 5px;
+    margin-top: 45px;
+}
+div.btn-form-gestao{
+    text-align: center;
+}
+
+/*LOGIN */
+div.login{
+    max-width: 500px;
+    margin: 50px auto;
+    background: #572727;
+    padding: 0px 0px;
+    border: 1px solid #fc503b;
+    border-radius: 5px;
+}
+form.login{
+    padding: 15px;
+    margin-top: -5px;
+    margin-bottom: -25px;
+}
+form.login input{
+    border-radius: 3px;
+    color: #fff;
+}
+.btn-login{
+    width: 100%;
+}
+.login-header{
+    text-align: center;
+    background: #f44336;
+}
+img.logo{
+    max-width: 150px
+}
+a.recuperar-senha{
+    color: #fff;
+}
+div.recuperar-senha{
+    text-align: right;
+}
