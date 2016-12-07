@@ -1,2 +1,2 @@
-Projeto do Curso Larave 5.2 do Especializati
+Projeto do Curso Laravel 5.2 do Especializati
 MP3-Online
